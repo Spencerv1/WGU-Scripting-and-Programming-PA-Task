@@ -1,7 +1,8 @@
 # WGU Scripting and Programming PA Task
 Student roster project programmed in C++ for C867 - Scripting and Programming Applications at Western Governors University.
 
-## Full Project Requirements
+
+## Project Requirements
 
 A.  Modify the “studentData Table” to include your personal information as the last item.
  

@@ -1,6 +1,7 @@
 # WGU Scripting and Programming PA Task
 Student roster project programmed in C++ for C867 - Scripting and Programming Applications at Western Governors University.
 
+The purpose of the application is to give users the ability to store a list of students and their data using a command prompt tool.
 
 ## Project Requirements
 
